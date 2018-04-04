@@ -23,6 +23,7 @@ twitter_username: 163Zhangysh1995
 github_username:  zhangysh1995
 
 # Build settings
+hightlighter: rouge
 markdown: kramdown
 theme: minima
 plugins:
