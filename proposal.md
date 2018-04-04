@@ -11,11 +11,13 @@ permalink: /proposol/
 
 ## Projects
 ### Weapp
-- Reminder for taking medicin?
+- Reminder for taking medicine?
 
 ### Java
 - Intellij IDEA plugin for save code snippets
    - bookmarks Export are not supported
+- Pycharm plugin for listing imported modules
+   - given scripts, summarize imported modules
 
 ### Linux
 - command line dictionary
