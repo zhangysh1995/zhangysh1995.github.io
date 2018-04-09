@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Proposol
-permalink: /proposol/
+title: Proposal
+permalink: /proposal/
 ---
 
 ## Posts
