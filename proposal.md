@@ -14,8 +14,10 @@ permalink: /proposal/
 - Reminder for taking medicine?
 
 ### Java
-- Intellij IDEA plugin for save code snippets
+- Intellij platform plugin for save code snippets
    - bookmarks Export are not supported
+- Intellij platform plugin for `mark files`
+   - mark files or star files for latter review
 - Pycharm plugin for listing imported modules
    - given scripts, summarize imported modules
 
