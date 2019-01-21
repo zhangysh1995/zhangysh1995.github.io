@@ -13,6 +13,10 @@ title:  "Use tar to decompress file"
 
 `` tar xf foo.tar ``
 
+*  *.gz file
+
+`` tar xzf foo.gz ``
+
 *   *.xz file
 
 `` tar xz foo.xz ``
