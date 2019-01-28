@@ -19,7 +19,8 @@ title:  "Use tar to decompress file"
 
 *   *.xz file
 
-`` tar xz foo.xz ``
+1.  ``tar xf foo.xz ``
+2.  `` tar xz foo.xz ``
 
 
 *  *.bz2 file
