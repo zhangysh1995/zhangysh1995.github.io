@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This websites hosts ideas, notes, projects and researches of me, who is currently a senior undergraduate student in Dept. of CSE at [SUSTech](www.sustc.edu.cn/en), Shenzhen, China. I'm going to HKUST for my Ph.D study starting 2018 Fall. My main interests incldue Software Engineering and Programming Languages.
+This website hosts idea, notes, projects and research of ZHANG Yushan, who is currently a first-year Ph.D student in Dept. of CSE at [HKUST](https://www.ust.hk/), HK S.A.R China. 
 
-*Programming lanuages*: C/C++, Java, Python
+My main research interests include *Programming Languages* and *Software Engineering*.
 
-*OS*: Linux (Ubuntu), Mac OSX
+To learn more about me, please visit my [**homepage**](http://home.cse.ust.hk/~yzhanghw/).
 
-*Skills*: Docker, Pandas, ROS, stm32(ARM7), iOS
+*If you find any error on this website, please do not hesitate to contact me. And you're always welcome to discuss questions.*
 
 [jekyll-organization]: https://github.com/jekyll
