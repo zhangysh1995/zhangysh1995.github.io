@@ -15,7 +15,7 @@ In this post, I will introduce basic usages of `AFL`.
 * If you want to install it, then run `make install`.
 
 ## Let's run it!
-The most commandly used dataset for fuzzers is [`LAVA-M`][lavam]. With this dataset, we could test totally four projects: `base64`, `md5sum`, `uniq` and `who`. For fuzzing we need to compile the projects with `afl-clang`.
+The most commonly used dataset for fuzzers is [`LAVA-M`][lavam]. With this dataset, we could test totally four projects: `base64`, `md5sum`, `uniq` and `who`. For fuzzing we need to compile the projects with `afl-clang`.
 
 Use the following command to compile the projects:
 
