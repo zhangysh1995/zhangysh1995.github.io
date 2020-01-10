@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Introduction to view privilege in PostgreSQL
 categories: database postgresql notes
 ---
