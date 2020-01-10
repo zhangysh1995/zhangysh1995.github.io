@@ -1,5 +1,8 @@
-
-## Introduction to view privilege in PostgreSQL
+---
+layout: posts
+title: Introduction to view privilege in PostgreSQL
+categories: database postgresql notes
+---
 
 Suppose you create a table using `CREATE TABLE phone_data (person text, phone text, private boolean);`,
 that is:
