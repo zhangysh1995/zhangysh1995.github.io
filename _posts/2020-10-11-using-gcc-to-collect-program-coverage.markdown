@@ -15,7 +15,7 @@ This will ask the compiler `GCC` to instrument the binary for recording coverage
 
 For a quick reference of how to build MySQL from source, you may check my previous posts <a href="http://zhangyushao.site/notes/mysql/software/2020/09/19/install-mysql-from-source.html">How to Install MySQL From Source</a>.
 
-## Set Previliges
+## Set Privileges
 You need to make sure your `mysqld` binary could create necessary directory, read and write the contents of *the object folder*. If you follow my previous post, you will do the following:
 
 ```` bash
