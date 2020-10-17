@@ -18,8 +18,8 @@ categories: notes mysql software
 I want to build the latest version `MySQL 8.0.21`, then run:
 
 ```` bash
-$ git clone https://github.com/mysql/mysql-server \
-                      --single-branch branch mysql-cluster-8.0.21
+$ git clone --branch mysql-cluster-8.0.21 \
+            https://github.com/mysql/mysql-server                      
 $ cd mysql-server                   
 ````
 
